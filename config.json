@@ -104,8 +104,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "localhost:3333",
+            "user": "45xbdwzauQMYHtzZ2T4usChcFdfscsosUKFCxmWsqPu67iFAmHo3N1jU6c3WFbv5ERSHUo9pZ4bdmXrufX1MLLjbMFYCF1R",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
